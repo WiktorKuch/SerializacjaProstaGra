@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8qMoPmHVZp5Tr+GmxLrLJgV8pqKyfM5dL5avZCCi2DNkbByYKMpu3ecDDH+h1eaZNRKtCtKkIMViTudQ780S0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wiktro Kucharek\\source\\repos\\SerializacjaProstaGra\\SerializacjaProstaGra\\SerializacjaProstaGra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wiktro Kucharek\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
